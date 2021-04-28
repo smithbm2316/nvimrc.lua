@@ -1,0 +1,2 @@
+# nvimrc.lua
+
